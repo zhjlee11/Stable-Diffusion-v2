@@ -12,7 +12,7 @@ Stable Diffusion은 화제가 되었던 NovelAI의 이미지 제너레이터의 
 
 ----
 ## **사용 가이드**
-### **1. 코랩 접속 및 실습 모드**
+### **1. 코랩 접속 및 사본 저장**
 위의 Google Colab 아이콘을 클릭하여 코랩에 접속하세요.
 
 ![image](https://user-images.githubusercontent.com/38976987/210027976-70b7d082-8cae-4c33-8c4b-505dd3880979.png)
