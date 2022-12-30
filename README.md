@@ -1,5 +1,5 @@
 # **Stable Diffusion v2**
-<a href="https://colab.research.google.com/drive/1t2yqB5W8M9r20WUz9fkPUL-bpShqTpFX?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&&logoColor=white"/></a>
+<a href="https://colab.research.google.com/drive/1t2yqB5W8M9r20WUz9fkPUL-bpShqTpFX?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&&logoColor=white"/></a>
 
 Stable Diffusion v2를 이용하여 Text-To-Image를 해주는 코드입니다.
 
